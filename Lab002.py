@@ -29,4 +29,7 @@ print(num1/num2) #div -> (div - float -12.34)
 print(type(num1)) #print the type of the the input variable
 print(type(num2))
 
+sum = int(num1)+int(num2) #adding two int
+print("The sum is:", sum)
 
+#Note: Intergar and float value takes 24bytes data to store in python
